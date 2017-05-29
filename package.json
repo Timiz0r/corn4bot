@@ -1,0 +1,10 @@
+{
+  "name": "corn4bot",
+  "version": "0.0.0",
+  "description": "corn4life discord bot",
+  "main": "main.js",
+  "repository": "",
+  "author": "corn4life",
+  "dependencies": {
+  }
+}
