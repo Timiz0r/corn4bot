@@ -2,9 +2,20 @@
   "name": "corn4bot",
   "version": "0.0.0",
   "description": "corn4life discord bot",
-  "main": "main.js",
   "repository": "",
   "author": "corn4life",
   "dependencies": {
+    "discord.js": "^11.1.0",
+    "erlpack": "hammerandchisel/erlpack",
+    "immutable": "^3.8.1",
+    "uws": "^0.14.5"
+  },
+  "scripts": {
+    "start": "babel-node ./app/start.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-plugin-transform-strict-mode": "^6.24.1"
   }
 }

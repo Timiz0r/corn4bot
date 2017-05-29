@@ -1,3 +1,6 @@
+#corn4bot stuff
+*.secrets*
+
 # Logs
 logs
 *.log
