@@ -1,5 +1,6 @@
 #corn4bot stuff
-*.secrets*
+*.secrets.js
+*.secrets.json
 
 # Logs
 logs
